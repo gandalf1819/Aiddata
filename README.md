@@ -38,3 +38,13 @@ Create an overview to see if there are groups/clusters of countries that are tig
 
 #### Visualization 3: 
 Considering only the top 5 purposes of donation, how does the relationship between countries look like in terms of purposes? What purposes do countries donate for to other countries? Are there countries that donate to a given country using multiple purposes? Or do counties always donate using one single purpose when donating to another country?
+
+## References:
+
+Heatmap: https://www.d3-graph-gallery.com/graph/heatmap_style.html
+
+Multiple line chart: http://bl.ocks.org/asielen/44ffca2877d0132572cb
+
+Grouped bar chart: https://observablehq.com/@d3/grouped-bar-chart
+
+World Map: http://bl.ocks.org/d3noob/5193723
