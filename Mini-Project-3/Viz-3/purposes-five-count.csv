@@ -1,0 +1,498 @@
+donor,recipient,coalesced_purpose_name
+Australia,Brazil,97
+Australia,Chile,109
+Australia,Colombia,95
+Australia,Cyprus,6
+Australia,Czech Republic,1
+Australia,Hungary,6
+Australia,India,991
+Australia,Korea,37
+Australia,Poland,1
+Australia,Saudi Arabia,1
+Australia,Slovenia,3
+Australia,South Africa,393
+Australia,Taiwan,11
+Australia,Thailand,1035
+Austria,Brazil,519
+Austria,Chile,66
+Austria,Colombia,108
+Austria,Cyprus,10
+Austria,Czech Republic,80
+Austria,Estonia,20
+Austria,Hungary,79
+Austria,India,283
+Austria,Korea,14
+Austria,Kuwait,3
+Austria,Latvia,14
+Austria,Lithuania,29
+Austria,Poland,44
+Austria,Romania,154
+Austria,Saudi Arabia,15
+Austria,Slovak Republic,81
+Austria,Slovenia,65
+Austria,South Africa,253
+Austria,Taiwan,18
+Austria,Thailand,85
+Austria,United Arab Emirates,4
+Belgium,Brazil,894
+Belgium,Chile,545
+Belgium,Colombia,573
+Belgium,Cyprus,1
+Belgium,Czech Republic,10
+Belgium,Estonia,5
+Belgium,Hungary,15
+Belgium,India,1126
+Belgium,Korea,4
+Belgium,Latvia,4
+Belgium,Lithuania,8
+Belgium,Poland,24
+Belgium,Romania,33
+Belgium,Saudi Arabia,1
+Belgium,Slovak Republic,12
+Belgium,Slovenia,10
+Belgium,South Africa,1261
+Belgium,Taiwan,15
+Belgium,Thailand,223
+Brazil,Chile,1
+Brazil,Colombia,22
+Brazil,France,1
+Brazil,Japan,1
+Brazil,Saudi Arabia,1
+Brazil,South Africa,4
+Canada,Brazil,583
+Canada,Chile,375
+Canada,Colombia,852
+Canada,Cyprus,7
+Canada,Czech Republic,47
+Canada,Estonia,11
+Canada,Hungary,41
+Canada,India,1202
+Canada,Korea,18
+Canada,Kuwait,1
+Canada,Latvia,14
+Canada,Lithuania,25
+Canada,Poland,87
+Canada,Romania,67
+Canada,Saudi Arabia,2
+Canada,Slovak Republic,49
+Canada,Slovenia,9
+Canada,South Africa,670
+Canada,Thailand,465
+Chile,Brazil,5
+Chile,Chile,1
+Chile,Colombia,43
+Chile,United States,1
+Colombia,Chile,17
+Colombia,Colombia,1
+Colombia,Thailand,1
+Colombia,United States,1
+Cyprus,India,1
+Czech Republic,Brazil,3
+Czech Republic,Chile,3
+Czech Republic,Colombia,3
+Czech Republic,Estonia,1
+Czech Republic,India,10
+Czech Republic,Latvia,2
+Czech Republic,Lithuania,4
+Czech Republic,Romania,2
+Czech Republic,Slovak Republic,1
+Czech Republic,South Africa,2
+Czech Republic,Thailand,3
+Denmark,Brazil,3
+Denmark,Chile,15
+Denmark,Colombia,7
+Denmark,India,381
+Denmark,South Africa,359
+Denmark,Thailand,160
+Denmark,United Arab Emirates,5
+Estonia,Czech Republic,1
+Estonia,India,1
+Estonia,Poland,1
+Finland,Brazil,139
+Finland,Chile,78
+Finland,Colombia,89
+Finland,Czech Republic,2
+Finland,Estonia,84
+Finland,Hungary,5
+Finland,India,463
+Finland,Latvia,49
+Finland,Lithuania,33
+Finland,Poland,11
+Finland,Romania,1
+Finland,Saudi Arabia,1
+Finland,Slovak Republic,1
+Finland,South Africa,266
+Finland,Thailand,137
+France,Brazil,1157
+France,Chile,670
+France,Colombia,491
+France,Cyprus,116
+France,Czech Republic,327
+France,Estonia,140
+France,Hungary,275
+France,India,920
+France,Korea,227
+France,Kuwait,84
+France,Latvia,137
+France,Lithuania,178
+France,Poland,325
+France,Qatar,89
+France,Romania,359
+France,Saudi Arabia,156
+France,Slovak Republic,263
+France,Slovenia,155
+France,South Africa,814
+France,Taiwan,121
+France,Thailand,751
+France,United Arab Emirates,95
+Germany,Brazil,2540
+Germany,Chile,976
+Germany,Colombia,1249
+Germany,Cyprus,23
+Germany,Czech Republic,138
+Germany,Estonia,67
+Germany,Hungary,119
+Germany,India,3063
+Germany,Korea,83
+Germany,Kuwait,12
+Germany,Latvia,82
+Germany,Lithuania,96
+Germany,Poland,236
+Germany,Qatar,7
+Germany,Romania,204
+Germany,Saudi Arabia,42
+Germany,Slovak Republic,89
+Germany,Slovenia,56
+Germany,South Africa,1939
+Germany,Taiwan,21
+Germany,Thailand,766
+Germany,United Arab Emirates,15
+Greece,Brazil,83
+Greece,Chile,52
+Greece,Colombia,18
+Greece,Cyprus,12
+Greece,Czech Republic,4
+Greece,Estonia,5
+Greece,Hungary,4
+Greece,India,45
+Greece,Korea,3
+Greece,Latvia,4
+Greece,Lithuania,4
+Greece,Poland,12
+Greece,Romania,66
+Greece,Saudi Arabia,11
+Greece,Slovak Republic,4
+Greece,Slovenia,8
+Greece,South Africa,58
+Greece,Taiwan,4
+Greece,Thailand,42
+Greece,United Arab Emirates,1
+Hungary,Canada,1
+Hungary,Romania,8
+Iceland,India,1
+Iceland,South Africa,2
+Ireland,Brazil,314
+Ireland,Chile,69
+Ireland,Colombia,180
+Ireland,Hungary,7
+Ireland,India,610
+Ireland,Korea,2
+Ireland,Latvia,1
+Ireland,Romania,12
+Ireland,Slovak Republic,1
+Ireland,South Africa,1090
+Ireland,Thailand,66
+Italy,Brazil,1834
+Italy,Chile,303
+Italy,Colombia,487
+Italy,Cyprus,19
+Italy,Czech Republic,51
+Italy,Estonia,17
+Italy,Hungary,66
+Italy,India,1210
+Italy,Korea,11
+Italy,Kuwait,2
+Italy,Latvia,11
+Italy,Lithuania,20
+Italy,Poland,77
+Italy,Romania,158
+Italy,Saudi Arabia,7
+Italy,Slovak Republic,39
+Italy,Slovenia,39
+Italy,South Africa,237
+Italy,Taiwan,1
+Italy,Thailand,135
+Italy,United Arab Emirates,1
+Japan,Brazil,1925
+Japan,Chile,875
+Japan,Colombia,998
+Japan,Cyprus,1
+Japan,Czech Republic,39
+Japan,Estonia,28
+Japan,Hungary,53
+Japan,India,1745
+Japan,Korea,141
+Japan,Kuwait,7
+Japan,Latvia,37
+Japan,Lithuania,32
+Japan,Poland,44
+Japan,Qatar,6
+Japan,Romania,112
+Japan,Saudi Arabia,178
+Japan,Slovak Republic,37
+Japan,Slovenia,10
+Japan,South Africa,643
+Japan,Taiwan,7
+Japan,Thailand,2469
+Japan,United Arab Emirates,12
+Korea,Brazil,67
+Korea,Chile,54
+Korea,Colombia,243
+Korea,India,168
+Korea,Saudi Arabia,4
+Korea,South Africa,62
+Korea,Thailand,759
+Kuwait,Cyprus,9
+Kuwait,India,9
+Kuwait,Lithuania,1
+Kuwait,Slovak Republic,1
+Kuwait,Thailand,5
+Liechtenstein,Austria,6
+Liechtenstein,Colombia,4
+Liechtenstein,Czech Republic,10
+Liechtenstein,Estonia,2
+Liechtenstein,Finland,2
+Liechtenstein,Germany,2
+Liechtenstein,Hungary,13
+Liechtenstein,India,4
+Liechtenstein,Italy,6
+Liechtenstein,Latvia,2
+Liechtenstein,Liechtenstein,4
+Liechtenstein,Lithuania,2
+Liechtenstein,Poland,17
+Liechtenstein,Romania,24
+Liechtenstein,Slovak Republic,1
+Liechtenstein,Slovenia,1
+Liechtenstein,Switzerland,5
+Liechtenstein,Thailand,1
+Luxembourg,Brazil,246
+Luxembourg,Chile,94
+Luxembourg,Colombia,170
+Luxembourg,Czech Republic,1
+Luxembourg,India,608
+Luxembourg,Romania,1
+Luxembourg,Slovak Republic,1
+Luxembourg,South Africa,52
+Luxembourg,Thailand,39
+Monaco,Portugal,1
+Monaco,Slovenia,4
+Monaco,South Africa,6
+Netherlands,Brazil,152
+Netherlands,Chile,151
+Netherlands,Colombia,512
+Netherlands,Cyprus,3
+Netherlands,Czech Republic,76
+Netherlands,Estonia,30
+Netherlands,Hungary,84
+Netherlands,India,1033
+Netherlands,Korea,8
+Netherlands,Kuwait,2
+Netherlands,Latvia,58
+Netherlands,Lithuania,40
+Netherlands,Poland,91
+Netherlands,Romania,139
+Netherlands,Saudi Arabia,5
+Netherlands,Slovak Republic,77
+Netherlands,Slovenia,29
+Netherlands,South Africa,948
+Netherlands,Thailand,205
+New Zealand,Brazil,41
+New Zealand,Chile,47
+New Zealand,Colombia,19
+New Zealand,India,67
+New Zealand,Kuwait,1
+New Zealand,South Africa,115
+New Zealand,Thailand,38
+Norway,Brazil,562
+Norway,Chile,157
+Norway,Colombia,507
+Norway,Cyprus,2
+Norway,Czech Republic,6
+Norway,Estonia,28
+Norway,Hungary,10
+Norway,India,1567
+Norway,Latvia,25
+Norway,Lithuania,33
+Norway,Poland,25
+Norway,Romania,39
+Norway,Saudi Arabia,11
+Norway,Slovak Republic,10
+Norway,Slovenia,4
+Norway,South Africa,1388
+Norway,Thailand,313
+Poland,Brazil,3
+Poland,Colombia,2
+Poland,India,7
+Poland,South Africa,7
+Poland,Thailand,5
+Portugal,Brazil,256
+Portugal,Chile,51
+Portugal,Colombia,33
+Portugal,Cyprus,3
+Portugal,Czech Republic,16
+Portugal,Estonia,3
+Portugal,Hungary,14
+Portugal,India,94
+Portugal,Korea,4
+Portugal,Latvia,2
+Portugal,Poland,18
+Portugal,Romania,12
+Portugal,Saudi Arabia,1
+Portugal,Slovak Republic,3
+Portugal,Slovenia,4
+Portugal,South Africa,62
+Portugal,Thailand,37
+Qatar,United States,17
+Saudi Arabia,Brazil,1
+Saudi Arabia,India,6
+Saudi Arabia,Korea,1
+Saudi Arabia,Taiwan,3
+Saudi Arabia,Thailand,2
+Slovak Republic,Brazil,1
+Slovak Republic,Chile,1
+Slovak Republic,Hungary,2
+Slovak Republic,India,2
+Slovak Republic,Taiwan,1
+Slovak Republic,Thailand,1
+Slovenia,Colombia,1
+Slovenia,India,5
+Slovenia,South Africa,1
+Spain,Brazil,2141
+Spain,Chile,1344
+Spain,Colombia,4069
+Spain,Cyprus,8
+Spain,Czech Republic,49
+Spain,Estonia,23
+Spain,Hungary,54
+Spain,India,1480
+Spain,Korea,14
+Spain,Kuwait,1
+Spain,Latvia,9
+Spain,Lithuania,24
+Spain,Poland,76
+Spain,Romania,108
+Spain,Saudi Arabia,3
+Spain,Slovak Republic,44
+Spain,Slovenia,27
+Spain,South Africa,163
+Spain,Taiwan,1
+Spain,Thailand,142
+Spain,United Arab Emirates,4
+Sweden,Brazil,152
+Sweden,Chile,243
+Sweden,Colombia,344
+Sweden,Czech Republic,13
+Sweden,Estonia,323
+Sweden,Hungary,25
+Sweden,India,959
+Sweden,Kuwait,2
+Sweden,Latvia,378
+Sweden,Lithuania,298
+Sweden,Poland,269
+Sweden,Romania,63
+Sweden,Slovak Republic,14
+Sweden,Slovenia,10
+Sweden,South Africa,1408
+Sweden,Taiwan,1
+Sweden,Thailand,219
+Switzerland,Brazil,211
+Switzerland,Chile,174
+Switzerland,Colombia,704
+Switzerland,Cyprus,6
+Switzerland,Czech Republic,30
+Switzerland,Estonia,5
+Switzerland,Hungary,16
+Switzerland,India,768
+Switzerland,Korea,6
+Switzerland,Latvia,5
+Switzerland,Lithuania,2
+Switzerland,Poland,16
+Switzerland,Romania,139
+Switzerland,Slovak Republic,14
+Switzerland,Slovenia,3
+Switzerland,South Africa,301
+Switzerland,Taiwan,6
+Switzerland,Thailand,241
+Taiwan,India,1
+Taiwan,Poland,1
+Taiwan,Saudi Arabia,6
+Taiwan,South Africa,2
+Thailand,Cyprus,1
+Thailand,South Africa,1
+United Arab Emirates,Brazil,18
+United Arab Emirates,Chile,11
+United Arab Emirates,Colombia,25
+United Arab Emirates,India,49
+United Arab Emirates,South Africa,16
+United Arab Emirates,Thailand,4
+United Kingdom,Brazil,565
+United Kingdom,Chile,184
+United Kingdom,Colombia,304
+United Kingdom,Cyprus,18
+United Kingdom,Czech Republic,70
+United Kingdom,Estonia,10
+United Kingdom,Hungary,88
+United Kingdom,India,2068
+United Kingdom,Korea,10
+United Kingdom,Latvia,23
+United Kingdom,Lithuania,14
+United Kingdom,Poland,168
+United Kingdom,Romania,190
+United Kingdom,Saudi Arabia,6
+United Kingdom,Slovak Republic,71
+United Kingdom,Slovenia,20
+United Kingdom,South Africa,806
+United Kingdom,Taiwan,1
+United Kingdom,Thailand,217
+United States,Australia,28
+United States,Austria,6
+United States,Belgium,2
+United States,Brazil,1341
+United States,Canada,20
+United States,Chile,334
+United States,Colombia,1292
+United States,Cyprus,58
+United States,Czech Republic,88
+United States,Denmark,4
+United States,Estonia,28
+United States,Finland,3
+United States,France,3
+United States,Greece,9
+United States,Hungary,132
+United States,Iceland,1
+United States,India,3502
+United States,Ireland,9
+United States,Italy,8
+United States,Japan,11
+United States,Korea,268
+United States,Kuwait,8
+United States,Latvia,46
+United States,Liechtenstein,1
+United States,Lithuania,64
+United States,Luxembourg,3
+United States,New Zealand,3
+United States,Norway,7
+United States,Poland,206
+United States,Portugal,7
+United States,Qatar,7
+United States,Romania,422
+United States,Saudi Arabia,95
+United States,Slovak Republic,74
+United States,Slovenia,16
+United States,South Africa,1670
+United States,Spain,19
+United States,Sweden,4
+United States,Taiwan,87
+United States,Thailand,1426
+United States,United Arab Emirates,6
+United States,United Kingdom,4

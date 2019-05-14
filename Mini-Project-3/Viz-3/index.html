@@ -1,42 +1,32 @@
-<!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <title></title>
-    <link rel="stylesheet" type="text/css" href="multiline.css">
-    <script src="http://d3js.org/d3.v3.js" charset="utf-8"></script>
-    <!--<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>-->
+  <meta charset="utf-8">
+  <title>Flight Paths using Edge Bundling</title>
+
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://unpkg.com/topojson@3"></script>
+  <script src="https://unpkg.com/d3-delaunay@4"></script>
+  <script src="https://unpkg.com/d3-geo-voronoi@1"></script>
+
+  <!-- <script src="tooltip.js"></script> -->
+
+  <link href="style.css" rel="stylesheet">
 </head>
+
 <body>
-<div class="chart-wrapper" id="chart-line1"></div>
 
-<script type="text/javascript">
-    d3.csv('newzealand-donations.csv', function(error, data) {
-    data.forEach(function (d) {
-        d.year = +d.year;
-        d.Brazil = +d.Brazil;
-        d.Chile = +d.Chile;
-        d.Colombia = +d.Colombia;
-        d.India = +d.India;
-        d.Kuwait = +d.Kuwait;
-        d.SouthAfrica = +d.SouthAfrica;
-        d.Thailand = +d.Thailand;
-    });
+<!-- must be 960x600 to match topojson us atlas files -->
+<svg width="960" height="600">
+  <!-- must be in this order for drawing -->
+  <g id="basemap"></g>
+  <g id="flights"></g>
+  <g id="airports"></g>
+  <g id="voronoi"></g>
+  <text id="tooltip" style="display: none;"></text>
+</svg>
 
-    var chart = makeLineChart(data, 'year', {
-        'Brazil': {column: 'Brazil'},
-        'Chile': {column: 'Chile'},
-        'Colombia': {column: 'Colombia'},
-        'India': {column: 'India'},
-        'Kuwait': {column: 'Kuwait'},
-        'South Africa': {column: 'SouthAfrica'},
-        'Thailand': {column: 'Thailand'},
-    }, {xAxis: 'Years', yAxis: 'Amount'});
-    chart.bind("#chart-line1");
-    chart.render();
+<script src="script.js"></script>
 
-});
-</script>
-<script src="multiline.js" charset="utf-8"></script>
 </body>
 </html>
