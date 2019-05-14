@@ -4,10 +4,10 @@
     <style>
         body {
             font-family: Helvetica, Arial, sans-serif;
-            background-color: Black;
+            background-color: white;
         }
         h1 {
-            background-color: #dbe8fc;
+            background-color: #2a5599;
             color:white;
             padding: 5px;
         }
@@ -18,7 +18,7 @@
           height: auto;         
           padding: 2px;       
           font: 12px sans-serif;    
-          background: AliceBlue; 
+          background: white; 
           border: 0px;    
           border-radius: 8px;     
           pointer-events: none;     
@@ -26,8 +26,8 @@
         .legend { list-style: none; }
         .legend li { float: right; margin-right: 10px; }
         .legend span { border: 1px solid #ccc; font-size: 15; float: left; width: 12px; height: 12px; margin: 2px; }
-        .legend .donated { background-color: #009900; }
-        .legend .received { background-color: #cc2900; }
+        .legend .donated { background-color: green; }
+        .legend .received { background-color: red; }
         svg{
           /*border: 1px solid black;*/
         }
@@ -42,7 +42,7 @@
     <div class="mainView">
         <div>
             <h2>Donations and Received</h2>
-            <div style="width:2000px;height:1000px;border:10px solid #000;margin:200;background-color:whitesmoke">
+            <div style="width:900px;height:900px;border:0px solid #000;margin:200;background-color:white">
             <svg id="Map"></svg>
             <div>
               <ul class="legend">
@@ -113,15 +113,15 @@ function drawMap(geoJeon) {
 }
 function findColorMin(arr){
     if(parseFloat(arr.donatedBillions) < parseFloat(arr.receivedBillions))
-        return "#009900"
+        return "green"
     else
-        return "#cc2900"
+        return "red"
 }
 function findColorMax(arr){
     if(parseFloat(arr.donatedBillions) > parseFloat(arr.receivedBillions))
-        return "#009900"
+        return "green"
     else
-        return "#cc2900"
+        return "red"
 }
 function drawCircles(countries) {
   let config = getMapConfig(); 
