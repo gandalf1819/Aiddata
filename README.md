@@ -6,10 +6,10 @@ https://www.aiddata.org/data/aiddata-core-research-release-level-1-3-1
 
 ## Mini-Project-1: Graph Design (Geo)
 
-###Visualization 1: 
+#### Visualization 1: 
 How do the countries compare in terms of how much they receive and donate from other countries? Are there countries that donate much more than they receive or receive much more than they donate?
 
-####Visualization 2: 
+#### Visualization 2: 
 Do the countries that receive or donate the most tend to cluster around specific geographical areas of the world? Are there neighboring countries that have radically different patterns in terms of how much they receive vs. how much they donate?
 
 #### Visualization 3: 
