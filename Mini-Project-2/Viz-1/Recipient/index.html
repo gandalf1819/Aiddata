@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="multiline.css">
+    <script src="http://d3js.org/d3.v3.js" charset="utf-8"></script>
+    <!--<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>-->
+</head>
+<body>
+<div class="chart-wrapper" id="chart-line1"></div>
+
+<script type="text/javascript">
+    d3.csv('received-amount.csv', function(error, data) {
+    data.forEach(function (d) {
+        d.year = +d.year;
+        d.Australia = +d.Australia;
+        d.Canada = +d.Canada;
+        d.Denmark = +d.Denmark;
+        d.France = +d.France;
+        d.Italy = +d.Italy;
+        d.Japan = +d.Japan;
+        d.Sweden = +d.Sweden;
+        d.UnitedKingdom = +d.UnitedKingdom
+        d.UnitedStates = +d.UnitedStates
+        
+    });
+
+    var chart = makeLineChart(data, 'year', {
+        'Australia': {column: 'Australia'},
+        'Canada': {column: 'Canada'},
+        'Denmark': {column: 'Denmark'},
+        'France': {column: 'France'},
+        'Italy': {column: 'Italy'},
+        'Japan': {column: 'Japan'},
+        'Sweden': {column: 'Sweden'},
+        'United Kingdom': {column: 'United Kingdom'},
+        'United States': {column: 'United States'},
+    }, {xAxis: 'Years', yAxis: 'Amount'});
+    chart.bind("#chart-line1");
+    chart.render();
+
+});
+</script>
+<script src="multiline.js" charset="utf-8"></script>
+</body>
+</html>
