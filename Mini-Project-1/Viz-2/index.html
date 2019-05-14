@@ -1,0 +1,166 @@
+<html>
+
+<head>
+    <style>
+        body {
+            font-family: Helvetica, Arial, sans-serif;
+            background-color: Black;
+        }
+        h1 {
+            background-color: #dbe8fc;
+            color:white;
+            padding: 5px;
+        }
+        div.tooltip { 
+          position: absolute;     
+          text-align: center;     
+          width: auto;          
+          height: auto;         
+          padding: 2px;       
+          font: 12px sans-serif;    
+          background: AliceBlue; 
+          border: 0px;    
+          border-radius: 8px;     
+          pointer-events: none;     
+        }
+        .legend { list-style: none; }
+        .legend li { float: right; margin-right: 10px; }
+        .legend span { border: 1px solid #ccc; font-size: 15; float: left; width: 12px; height: 12px; margin: 2px; }
+        .legend .donated { background-color: #009900; }
+        .legend .received { background-color: #cc2900; }
+        svg{
+          /*border: 1px solid black;*/
+        }
+        .mainview{
+          display:flex;
+        }
+    </style>
+    <script src="d3.js"></script>
+</head>
+<body>
+    <h1>Questions</h1>
+    <div class="mainView">
+        <div>
+            <h2>Donations and Received</h2>
+            <div style="width:2000px;height:1000px;border:10px solid #000;margin:200;background-color:whitesmoke">
+            <svg id="Map"></svg>
+            <div>
+              <ul class="legend">
+                <li><span class="donated"></span> Amount Donated in Billions</li>
+                <li><span class="received"></span> Amount Received in Billions</li>
+              </ul>
+            </div>
+          </div>
+          
+        </div>
+    </div>
+
+</body>
+<script>
+    let store = {}
+    function loadData() {
+    return Promise.all([
+        d3.csv("aiddata.csv"),
+        d3.json("countries.geo.json"),
+    ]).then(datasets => {
+        store.aid = datasets[0];
+        store.geoJSON = datasets[1];
+        return store;
+    })
+}
+function showData() {
+  let aid = store.aid
+  console.log(aid)
+  drawMap(store.geoJSON)
+  drawCircles(store.aid)
+}
+loadData().then(showData);
+function getMapConfig(){
+  let width = 1400;
+  let height = 950;
+  let container = d3.select("#Map")
+  
+    container
+        .attr("width", width)
+        .attr("height",height)
+        .call(d3.zoom().scaleExtent([1 / 2, 8]).on("zoom", function () {
+        container.attr("transform", d3.event.transform)
+      }))
+  return {width, height, container}
+}
+function getMapProjection(config) {
+  let {width, height} = config;
+  let projection = d3.geoMercator()
+  projection.scale(220)
+            .translate([width / 2, height / 2 + 20])
+            
+  store.mapProjection = projection;
+  return projection;
+}
+function drawBaseMap(container, countries, projection){
+  let path = d3.geoPath()
+          .projection(projection)
+  container.selectAll("path").data(countries)
+      .enter().append("path")
+      .attr("d",path)
+      .attr("stroke", "#ccc")
+      .attr("fill", "#eee")    
+}
+function drawMap(geoJeon) {
+    let config = getMapConfig();
+    let projection = getMapProjection(config)
+    drawBaseMap(config.container, geoJeon.features, projection)
+}
+function findColorMin(arr){
+    if(parseFloat(arr.donatedBillions) < parseFloat(arr.receivedBillions))
+        return "#009900"
+    else
+        return "#cc2900"
+}
+function findColorMax(arr){
+    if(parseFloat(arr.donatedBillions) > parseFloat(arr.receivedBillions))
+        return "#009900"
+    else
+        return "#cc2900"
+}
+function drawCircles(countries) {
+  let config = getMapConfig(); 
+  let projection = getMapProjection(config) 
+  let container = config.container; 
+  var formatDecimal = d3.format(".5f")
+  var div = d3.select("body").append("div") 
+    .attr("class", "tooltip")       
+    .style("opacity", 0);
+        
+  var circles = container.selectAll("g")
+                        .data(countries)
+                        .enter()
+                        .append("g");
+     //add bigger circle                   
+      circles.append("circle")
+     .attr("cx",d=>projection([+d.Longitude,+d.Latitude])[0])
+     .attr("cy",d=>projection([+d.Longitude,+d.Latitude])[1])
+     .attr("r",function(d) { return Math.max(Math.sqrt(d.donatedBillions),Math.sqrt(d.receivedBillions))*1.6})
+     .style("fill", function(d){return findColorMax(d)})
+     .on("mouseover", function(d) {   
+            div.transition()    
+                .duration(200)    
+                .style("opacity", .9);    
+            div .html("<p>"+d.country+"<br/>"+"Donated = $"+formatDecimal(d.donatedBillions) + " Bn<br/>"  + "Received = $"+formatDecimal(d.receivedBillions)+" Bn")  
+                .style("left", (d3.event.pageX) + "px")   
+                .style("top", (d3.event.pageY - 28) + "px");
+            })
+     .on("mouseout", function(d) {    
+            div.transition()    
+                .duration(500)    
+                .style("opacity", 0); 
+        });
+     //add smaller circle
+     circles.append("circle")
+     .attr("cx",d=>projection([+d.Longitude,+d.Latitude])[0])
+     .attr("cy",d=>projection([+d.Longitude,+d.Latitude])[1])
+     .attr("r",function(d) { return Math.min(Math.sqrt(d.donatedBillions),Math.sqrt(d.receivedBillions) *1.6)})
+     .style("fill", function(d){return findColorMin(d)})
+     
+}
+</script>
