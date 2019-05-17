@@ -1,0 +1,571 @@
+{
+ "links": [
+  {
+   "source": 0,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 0,
+   "target": 22,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 23,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 24,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 25,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 26,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 27,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 24,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 25,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 28,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 29,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 26,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 30,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 31,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 24,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 25,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 32,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 29,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 26,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 22,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 22,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 5,
+   "target": 33,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 6,
+   "target": 24,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 6,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 6,
+   "target": 28,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 6,
+   "target": 26,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 6,
+   "target": 22,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 7,
+   "target": 27,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 7,
+   "target": 24,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 7,
+   "target": 25,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 7,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 7,
+   "target": 28,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 7,
+   "target": 26,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 7,
+   "target": 22,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 8,
+   "target": 31,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 8,
+   "target": 27,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 9,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 9,
+   "target": 22,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 10,
+   "target": 22,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 22,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 12,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 34,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 28,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 14,
+   "target": 22,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 15,
+   "target": 26,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 16,
+   "target": 33,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 16,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 16,
+   "target": 34,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 16,
+   "target": 28,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 16,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 17,
+   "target": 22,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 18,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 19,
+   "target": 31,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 19,
+   "target": 27,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 19,
+   "target": 24,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 19,
+   "target": 33,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 19,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 19,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 31,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 36,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 27,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 24,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 37,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 25,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 21,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 38,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 10,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 11,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 32,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 39,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 29,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 14,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 15,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 22,
+   "value": "Power generation/non-renewable sources"
+  }
+ ],
+ "nodes": [
+  {
+   "group": 1,
+   "name": "Australia"
+  },
+  {
+   "group": 2,
+   "name": "Austria"
+  },
+  {
+   "group": 3,
+   "name": "Belgium"
+  },
+  {
+   "group": 4,
+   "name": "Canada"
+  },
+  {
+   "group": 5,
+   "name": "Denmark"
+  },
+  {
+   "group": 6,
+   "name": "Finland"
+  },
+  {
+   "group": 7,
+   "name": "France"
+  },
+  {
+   "group": 8,
+   "name": "Germany"
+  },
+  {
+   "group": 9,
+   "name": "Italy"
+  },
+  {
+   "group": 10,
+   "name": "Japan"
+  },
+  {
+   "group": 11,
+   "name": "Korea"
+  },
+  {
+   "group": 12,
+   "name": "Kuwait"
+  },
+  {
+   "group": 13,
+   "name": "Netherlands"
+  },
+  {
+   "group": 14,
+   "name": "Norway"
+  },
+  {
+   "group": 15,
+   "name": "Saudi Arabia"
+  },
+  {
+   "group": 16,
+   "name": "Spain"
+  },
+  {
+   "group": 17,
+   "name": "Sweden"
+  },
+  {
+   "group": 18,
+   "name": "Switzerland"
+  },
+  {
+   "group": 19,
+   "name": "United Arab Emirates"
+  },
+  {
+   "group": 20,
+   "name": "United Kingdom"
+  },
+  {
+   "group": 21,
+   "name": "United States"
+  },
+  {
+   "group": 22,
+   "name": "India"
+  },
+  {
+   "group": 23,
+   "name": "Thailand"
+  },
+  {
+   "group": 24,
+   "name": "Cyprus"
+  },
+  {
+   "group": 25,
+   "name": "Czech Republic"
+  },
+  {
+   "group": 26,
+   "name": "Hungary"
+  },
+  {
+   "group": 27,
+   "name": "Slovak Republic"
+  },
+  {
+   "group": 28,
+   "name": "Colombia"
+  },
+  {
+   "group": 29,
+   "name": "Lithuania"
+  },
+  {
+   "group": 30,
+   "name": "Romania"
+  },
+  {
+   "group": 31,
+   "name": "Slovenia"
+  },
+  {
+   "group": 32,
+   "name": "Brazil"
+  },
+  {
+   "group": 33,
+   "name": "Poland"
+  },
+  {
+   "group": 34,
+   "name": "Estonia"
+  },
+  {
+   "group": 35,
+   "name": "Latvia"
+  },
+  {
+   "group": 36,
+   "name": "South Africa"
+  },
+  {
+   "group": 37,
+   "name": "Chile"
+  },
+  {
+   "group": 38,
+   "name": "Greece"
+  },
+  {
+   "group": 39,
+   "name": "Ireland"
+  },
+  {
+   "group": 40,
+   "name": "Qatar"
+  }
+ ]
+}

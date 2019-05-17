@@ -1,0 +1,520 @@
+{
+ "links": [
+  {
+   "source": 0,
+   "target": 14,
+   "value": "Air transport"
+  },
+  {
+   "source": 1,
+   "target": 14,
+   "value": "Air transport"
+  },
+  {
+   "source": 2,
+   "target": 15,
+   "value": "Air transport"
+  },
+  {
+   "source": 2,
+   "target": 16,
+   "value": "Air transport"
+  },
+  {
+   "source": 2,
+   "target": 17,
+   "value": "Air transport"
+  },
+  {
+   "source": 2,
+   "target": 18,
+   "value": "Air transport"
+  },
+  {
+   "source": 2,
+   "target": 14,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 19,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 20,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 21,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 22,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 16,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 18,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 23,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 14,
+   "value": "Air transport"
+  },
+  {
+   "source": 4,
+   "target": 20,
+   "value": "Air transport"
+  },
+  {
+   "source": 5,
+   "target": 20,
+   "value": "Air transport"
+  },
+  {
+   "source": 6,
+   "target": 24,
+   "value": "Air transport"
+  },
+  {
+   "source": 6,
+   "target": 20,
+   "value": "Air transport"
+  },
+  {
+   "source": 6,
+   "target": 14,
+   "value": "Air transport"
+  },
+  {
+   "source": 7,
+   "target": 19,
+   "value": "Air transport"
+  },
+  {
+   "source": 7,
+   "target": 14,
+   "value": "Air transport"
+  },
+  {
+   "source": 8,
+   "target": 16,
+   "value": "Air transport"
+  },
+  {
+   "source": 8,
+   "target": 25,
+   "value": "Air transport"
+  },
+  {
+   "source": 9,
+   "target": 16,
+   "value": "Air transport"
+  },
+  {
+   "source": 9,
+   "target": 23,
+   "value": "Air transport"
+  },
+  {
+   "source": 9,
+   "target": 14,
+   "value": "Air transport"
+  },
+  {
+   "source": 10,
+   "target": 24,
+   "value": "Air transport"
+  },
+  {
+   "source": 10,
+   "target": 19,
+   "value": "Air transport"
+  },
+  {
+   "source": 10,
+   "target": 20,
+   "value": "Air transport"
+  },
+  {
+   "source": 10,
+   "target": 16,
+   "value": "Air transport"
+  },
+  {
+   "source": 11,
+   "target": 22,
+   "value": "Air transport"
+  },
+  {
+   "source": 11,
+   "target": 26,
+   "value": "Air transport"
+  },
+  {
+   "source": 11,
+   "target": 27,
+   "value": "Air transport"
+  },
+  {
+   "source": 11,
+   "target": 17,
+   "value": "Air transport"
+  },
+  {
+   "source": 12,
+   "target": 16,
+   "value": "Air transport"
+  },
+  {
+   "source": 12,
+   "target": 17,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 0,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 28,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 1,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 24,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 2,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 19,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 20,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 15,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 29,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 30,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 3,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 31,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 32,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 33,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 16,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 34,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 5,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 6,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 7,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 27,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 35,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 36,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 9,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 17,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 37,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 18,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 38,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 23,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 10,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 39,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 14,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 40,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 12,
+   "value": "Air transport"
+  }
+ ],
+ "nodes": [
+  {
+   "group": 1,
+   "name": "Australia"
+  },
+  {
+   "group": 2,
+   "name": "Belgium"
+  },
+  {
+   "group": 3,
+   "name": "Canada"
+  },
+  {
+   "group": 4,
+   "name": "France"
+  },
+  {
+   "group": 5,
+   "name": "Germany"
+  },
+  {
+   "group": 6,
+   "name": "Italy"
+  },
+  {
+   "group": 7,
+   "name": "Japan"
+  },
+  {
+   "group": 8,
+   "name": "Korea"
+  },
+  {
+   "group": 9,
+   "name": "Netherlands"
+  },
+  {
+   "group": 10,
+   "name": "Norway"
+  },
+  {
+   "group": 11,
+   "name": "Spain"
+  },
+  {
+   "group": 12,
+   "name": "Sweden"
+  },
+  {
+   "group": 13,
+   "name": "United Kingdom"
+  },
+  {
+   "group": 14,
+   "name": "United States"
+  },
+  {
+   "group": 15,
+   "name": "Thailand"
+  },
+  {
+   "group": 16,
+   "name": "Czech Republic"
+  },
+  {
+   "group": 17,
+   "name": "India"
+  },
+  {
+   "group": 18,
+   "name": "Poland"
+  },
+  {
+   "group": 19,
+   "name": "Romania"
+  },
+  {
+   "group": 20,
+   "name": "Chile"
+  },
+  {
+   "group": 21,
+   "name": "Colombia"
+  },
+  {
+   "group": 22,
+   "name": "Cyprus"
+  },
+  {
+   "group": 23,
+   "name": "Estonia"
+  },
+  {
+   "group": 24,
+   "name": "South Africa"
+  },
+  {
+   "group": 25,
+   "name": "Brazil"
+  },
+  {
+   "group": 26,
+   "name": "Slovak Republic"
+  },
+  {
+   "group": 27,
+   "name": "Latvia"
+  },
+  {
+   "group": 28,
+   "name": "Lithuania"
+  },
+  {
+   "group": 29,
+   "name": "Austria"
+  },
+  {
+   "group": 30,
+   "name": "Denmark"
+  },
+  {
+   "group": 31,
+   "name": "Finland"
+  },
+  {
+   "group": 32,
+   "name": "Greece"
+  },
+  {
+   "group": 33,
+   "name": "Hungary"
+  },
+  {
+   "group": 34,
+   "name": "Iceland"
+  },
+  {
+   "group": 35,
+   "name": "Ireland"
+  },
+  {
+   "group": 36,
+   "name": "Luxembourg"
+  },
+  {
+   "group": 37,
+   "name": "New Zealand"
+  },
+  {
+   "group": 38,
+   "name": "Portugal"
+  },
+  {
+   "group": 39,
+   "name": "Saudi Arabia"
+  },
+  {
+   "group": 40,
+   "name": "Taiwan"
+  },
+  {
+   "group": 41,
+   "name": "United Arab Emirates"
+  }
+ ]
+}

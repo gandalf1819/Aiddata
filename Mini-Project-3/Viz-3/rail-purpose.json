@@ -1,0 +1,476 @@
+{
+ "links": [
+  {
+   "source": 0,
+   "target": 19,
+   "value": "Rail transport"
+  },
+  {
+   "source": 0,
+   "target": 20,
+   "value": "Rail transport"
+  },
+  {
+   "source": 1,
+   "target": 21,
+   "value": "Rail transport"
+  },
+  {
+   "source": 2,
+   "target": 20,
+   "value": "Rail transport"
+  },
+  {
+   "source": 3,
+   "target": 22,
+   "value": "Rail transport"
+  },
+  {
+   "source": 3,
+   "target": 19,
+   "value": "Rail transport"
+  },
+  {
+   "source": 3,
+   "target": 23,
+   "value": "Rail transport"
+  },
+  {
+   "source": 4,
+   "target": 20,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 22,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 24,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 21,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 25,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 19,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 9,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 26,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 27,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 28,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 20,
+   "value": "Rail transport"
+  },
+  {
+   "source": 6,
+   "target": 22,
+   "value": "Rail transport"
+  },
+  {
+   "source": 6,
+   "target": 21,
+   "value": "Rail transport"
+  },
+  {
+   "source": 6,
+   "target": 19,
+   "value": "Rail transport"
+  },
+  {
+   "source": 6,
+   "target": 9,
+   "value": "Rail transport"
+  },
+  {
+   "source": 6,
+   "target": 20,
+   "value": "Rail transport"
+  },
+  {
+   "source": 7,
+   "target": 29,
+   "value": "Rail transport"
+  },
+  {
+   "source": 7,
+   "target": 26,
+   "value": "Rail transport"
+  },
+  {
+   "source": 7,
+   "target": 27,
+   "value": "Rail transport"
+  },
+  {
+   "source": 7,
+   "target": 20,
+   "value": "Rail transport"
+  },
+  {
+   "source": 8,
+   "target": 22,
+   "value": "Rail transport"
+  },
+  {
+   "source": 8,
+   "target": 24,
+   "value": "Rail transport"
+  },
+  {
+   "source": 8,
+   "target": 21,
+   "value": "Rail transport"
+  },
+  {
+   "source": 8,
+   "target": 29,
+   "value": "Rail transport"
+  },
+  {
+   "source": 8,
+   "target": 19,
+   "value": "Rail transport"
+  },
+  {
+   "source": 8,
+   "target": 9,
+   "value": "Rail transport"
+  },
+  {
+   "source": 8,
+   "target": 28,
+   "value": "Rail transport"
+  },
+  {
+   "source": 8,
+   "target": 20,
+   "value": "Rail transport"
+  },
+  {
+   "source": 9,
+   "target": 21,
+   "value": "Rail transport"
+  },
+  {
+   "source": 9,
+   "target": 20,
+   "value": "Rail transport"
+  },
+  {
+   "source": 10,
+   "target": 19,
+   "value": "Rail transport"
+  },
+  {
+   "source": 11,
+   "target": 28,
+   "value": "Rail transport"
+  },
+  {
+   "source": 12,
+   "target": 22,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 19,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 30,
+   "value": "Rail transport"
+  },
+  {
+   "source": 14,
+   "target": 22,
+   "value": "Rail transport"
+  },
+  {
+   "source": 14,
+   "target": 19,
+   "value": "Rail transport"
+  },
+  {
+   "source": 15,
+   "target": 25,
+   "value": "Rail transport"
+  },
+  {
+   "source": 15,
+   "target": 19,
+   "value": "Rail transport"
+  },
+  {
+   "source": 15,
+   "target": 31,
+   "value": "Rail transport"
+  },
+  {
+   "source": 15,
+   "target": 32,
+   "value": "Rail transport"
+  },
+  {
+   "source": 15,
+   "target": 26,
+   "value": "Rail transport"
+  },
+  {
+   "source": 16,
+   "target": 33,
+   "value": "Rail transport"
+  },
+  {
+   "source": 17,
+   "target": 19,
+   "value": "Rail transport"
+  },
+  {
+   "source": 17,
+   "target": 26,
+   "value": "Rail transport"
+  },
+  {
+   "source": 17,
+   "target": 20,
+   "value": "Rail transport"
+  },
+  {
+   "source": 18,
+   "target": 0,
+   "value": "Rail transport"
+  },
+  {
+   "source": 18,
+   "target": 22,
+   "value": "Rail transport"
+  },
+  {
+   "source": 18,
+   "target": 24,
+   "value": "Rail transport"
+  },
+  {
+   "source": 18,
+   "target": 21,
+   "value": "Rail transport"
+  },
+  {
+   "source": 18,
+   "target": 29,
+   "value": "Rail transport"
+  },
+  {
+   "source": 18,
+   "target": 34,
+   "value": "Rail transport"
+  },
+  {
+   "source": 18,
+   "target": 19,
+   "value": "Rail transport"
+  },
+  {
+   "source": 18,
+   "target": 9,
+   "value": "Rail transport"
+  },
+  {
+   "source": 18,
+   "target": 32,
+   "value": "Rail transport"
+  },
+  {
+   "source": 18,
+   "target": 33,
+   "value": "Rail transport"
+  },
+  {
+   "source": 18,
+   "target": 13,
+   "value": "Rail transport"
+  },
+  {
+   "source": 18,
+   "target": 28,
+   "value": "Rail transport"
+  },
+  {
+   "source": 18,
+   "target": 20,
+   "value": "Rail transport"
+  }
+ ],
+ "nodes": [
+  {
+   "group": 1,
+   "name": "Australia"
+  },
+  {
+   "group": 2,
+   "name": "Austria"
+  },
+  {
+   "group": 3,
+   "name": "Belgium"
+  },
+  {
+   "group": 4,
+   "name": "Canada"
+  },
+  {
+   "group": 5,
+   "name": "Denmark"
+  },
+  {
+   "group": 6,
+   "name": "France"
+  },
+  {
+   "group": 7,
+   "name": "Germany"
+  },
+  {
+   "group": 8,
+   "name": "Italy"
+  },
+  {
+   "group": 9,
+   "name": "Japan"
+  },
+  {
+   "group": 10,
+   "name": "Korea"
+  },
+  {
+   "group": 11,
+   "name": "Netherlands"
+  },
+  {
+   "group": 12,
+   "name": "Norway"
+  },
+  {
+   "group": 13,
+   "name": "Portugal"
+  },
+  {
+   "group": 14,
+   "name": "Saudi Arabia"
+  },
+  {
+   "group": 15,
+   "name": "Spain"
+  },
+  {
+   "group": 16,
+   "name": "Sweden"
+  },
+  {
+   "group": 17,
+   "name": "Switzerland"
+  },
+  {
+   "group": 18,
+   "name": "United Kingdom"
+  },
+  {
+   "group": 19,
+   "name": "United States"
+  },
+  {
+   "group": 20,
+   "name": "India"
+  },
+  {
+   "group": 21,
+   "name": "Thailand"
+  },
+  {
+   "group": 22,
+   "name": "Colombia"
+  },
+  {
+   "group": 23,
+   "name": "Brazil"
+  },
+  {
+   "group": 24,
+   "name": "Slovak Republic"
+  },
+  {
+   "group": 25,
+   "name": "Chile"
+  },
+  {
+   "group": 26,
+   "name": "Estonia"
+  },
+  {
+   "group": 27,
+   "name": "Poland"
+  },
+  {
+   "group": 28,
+   "name": "Slovenia"
+  },
+  {
+   "group": 29,
+   "name": "South Africa"
+  },
+  {
+   "group": 30,
+   "name": "Czech Republic"
+  },
+  {
+   "group": 31,
+   "name": "Taiwan"
+  },
+  {
+   "group": 32,
+   "name": "Latvia"
+  },
+  {
+   "group": 33,
+   "name": "Lithuania"
+  },
+  {
+   "group": 34,
+   "name": "Romania"
+  },
+  {
+   "group": 35,
+   "name": "Hungary"
+  }
+ ]
+}

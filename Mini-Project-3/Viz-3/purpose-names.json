@@ -1,0 +1,4739 @@
+{
+ "links": [
+  {
+   "source": 0,
+   "target": 34,
+   "value": "Air transport"
+  },
+  {
+   "source": 1,
+   "target": 34,
+   "value": "Air transport"
+  },
+  {
+   "source": 2,
+   "target": 18,
+   "value": "Air transport"
+  },
+  {
+   "source": 2,
+   "target": 35,
+   "value": "Air transport"
+  },
+  {
+   "source": 2,
+   "target": 32,
+   "value": "Air transport"
+  },
+  {
+   "source": 2,
+   "target": 36,
+   "value": "Air transport"
+  },
+  {
+   "source": 2,
+   "target": 34,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 28,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 29,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 37,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 38,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 35,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 36,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 39,
+   "value": "Air transport"
+  },
+  {
+   "source": 3,
+   "target": 34,
+   "value": "Air transport"
+  },
+  {
+   "source": 4,
+   "target": 29,
+   "value": "Air transport"
+  },
+  {
+   "source": 5,
+   "target": 29,
+   "value": "Air transport"
+  },
+  {
+   "source": 6,
+   "target": 27,
+   "value": "Air transport"
+  },
+  {
+   "source": 6,
+   "target": 29,
+   "value": "Air transport"
+  },
+  {
+   "source": 6,
+   "target": 34,
+   "value": "Air transport"
+  },
+  {
+   "source": 7,
+   "target": 28,
+   "value": "Air transport"
+  },
+  {
+   "source": 7,
+   "target": 34,
+   "value": "Air transport"
+  },
+  {
+   "source": 8,
+   "target": 35,
+   "value": "Air transport"
+  },
+  {
+   "source": 8,
+   "target": 40,
+   "value": "Air transport"
+  },
+  {
+   "source": 9,
+   "target": 35,
+   "value": "Air transport"
+  },
+  {
+   "source": 9,
+   "target": 39,
+   "value": "Air transport"
+  },
+  {
+   "source": 9,
+   "target": 34,
+   "value": "Air transport"
+  },
+  {
+   "source": 10,
+   "target": 27,
+   "value": "Air transport"
+  },
+  {
+   "source": 10,
+   "target": 28,
+   "value": "Air transport"
+  },
+  {
+   "source": 10,
+   "target": 29,
+   "value": "Air transport"
+  },
+  {
+   "source": 10,
+   "target": 35,
+   "value": "Air transport"
+  },
+  {
+   "source": 11,
+   "target": 38,
+   "value": "Air transport"
+  },
+  {
+   "source": 11,
+   "target": 41,
+   "value": "Air transport"
+  },
+  {
+   "source": 11,
+   "target": 42,
+   "value": "Air transport"
+  },
+  {
+   "source": 11,
+   "target": 32,
+   "value": "Air transport"
+  },
+  {
+   "source": 12,
+   "target": 35,
+   "value": "Air transport"
+  },
+  {
+   "source": 12,
+   "target": 32,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 0,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 17,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 1,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 27,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 2,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 28,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 29,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 18,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 14,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 19,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 3,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 30,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 43,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 44,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 35,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 15,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 5,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 6,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 7,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 42,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 26,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 23,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 9,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 32,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 22,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 36,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 24,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 39,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 10,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 45,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 34,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 25,
+   "value": "Air transport"
+  },
+  {
+   "source": 13,
+   "target": 12,
+   "value": "Air transport"
+  },
+  {
+   "source": 0,
+   "target": 35,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 1,
+   "target": 29,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 1,
+   "target": 35,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 14,
+   "target": 35,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 14,
+   "target": 34,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 3,
+   "target": 28,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 3,
+   "target": 35,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 4,
+   "target": 35,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 15,
+   "target": 27,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 15,
+   "target": 29,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 15,
+   "target": 35,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 15,
+   "target": 39,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 6,
+   "target": 7,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 6,
+   "target": 34,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 8,
+   "target": 35,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 9,
+   "target": 35,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 10,
+   "target": 29,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 11,
+   "target": 35,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 16,
+   "target": 28,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 16,
+   "target": 29,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 16,
+   "target": 35,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 16,
+   "target": 34,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 12,
+   "target": 35,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 13,
+   "target": 7,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 13,
+   "target": 20,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 13,
+   "target": 34,
+   "value": "Import support (capital goods)"
+  },
+  {
+   "source": 0,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 0,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 0,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 17,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 17,
+   "target": 37,
+   "value": "Industrial development"
+  },
+  {
+   "source": 17,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 17,
+   "target": 36,
+   "value": "Industrial development"
+  },
+  {
+   "source": 17,
+   "target": 24,
+   "value": "Industrial development"
+  },
+  {
+   "source": 17,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 17,
+   "target": 25,
+   "value": "Industrial development"
+  },
+  {
+   "source": 1,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 1,
+   "target": 28,
+   "value": "Industrial development"
+  },
+  {
+   "source": 1,
+   "target": 29,
+   "value": "Industrial development"
+  },
+  {
+   "source": 1,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 1,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 1,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 2,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 2,
+   "target": 28,
+   "value": "Industrial development"
+  },
+  {
+   "source": 2,
+   "target": 29,
+   "value": "Industrial development"
+  },
+  {
+   "source": 2,
+   "target": 18,
+   "value": "Industrial development"
+  },
+  {
+   "source": 2,
+   "target": 38,
+   "value": "Industrial development"
+  },
+  {
+   "source": 2,
+   "target": 43,
+   "value": "Industrial development"
+  },
+  {
+   "source": 2,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 2,
+   "target": 32,
+   "value": "Industrial development"
+  },
+  {
+   "source": 2,
+   "target": 36,
+   "value": "Industrial development"
+  },
+  {
+   "source": 2,
+   "target": 40,
+   "value": "Industrial development"
+  },
+  {
+   "source": 2,
+   "target": 46,
+   "value": "Industrial development"
+  },
+  {
+   "source": 2,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 2,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 18,
+   "target": 38,
+   "value": "Industrial development"
+  },
+  {
+   "source": 18,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 18,
+   "target": 41,
+   "value": "Industrial development"
+  },
+  {
+   "source": 18,
+   "target": 42,
+   "value": "Industrial development"
+  },
+  {
+   "source": 14,
+   "target": 29,
+   "value": "Industrial development"
+  },
+  {
+   "source": 14,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 14,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 14,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 19,
+   "target": 18,
+   "value": "Industrial development"
+  },
+  {
+   "source": 19,
+   "target": 38,
+   "value": "Industrial development"
+  },
+  {
+   "source": 19,
+   "target": 43,
+   "value": "Industrial development"
+  },
+  {
+   "source": 19,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 19,
+   "target": 32,
+   "value": "Industrial development"
+  },
+  {
+   "source": 19,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 19,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 3,
+   "target": 28,
+   "value": "Industrial development"
+  },
+  {
+   "source": 3,
+   "target": 29,
+   "value": "Industrial development"
+  },
+  {
+   "source": 3,
+   "target": 37,
+   "value": "Industrial development"
+  },
+  {
+   "source": 3,
+   "target": 18,
+   "value": "Industrial development"
+  },
+  {
+   "source": 3,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 3,
+   "target": 7,
+   "value": "Industrial development"
+  },
+  {
+   "source": 3,
+   "target": 41,
+   "value": "Industrial development"
+  },
+  {
+   "source": 3,
+   "target": 42,
+   "value": "Industrial development"
+  },
+  {
+   "source": 3,
+   "target": 32,
+   "value": "Industrial development"
+  },
+  {
+   "source": 3,
+   "target": 36,
+   "value": "Industrial development"
+  },
+  {
+   "source": 3,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 4,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 4,
+   "target": 28,
+   "value": "Industrial development"
+  },
+  {
+   "source": 4,
+   "target": 29,
+   "value": "Industrial development"
+  },
+  {
+   "source": 4,
+   "target": 38,
+   "value": "Industrial development"
+  },
+  {
+   "source": 4,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 4,
+   "target": 7,
+   "value": "Industrial development"
+  },
+  {
+   "source": 4,
+   "target": 46,
+   "value": "Industrial development"
+  },
+  {
+   "source": 4,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 4,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 15,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 15,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 5,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 5,
+   "target": 28,
+   "value": "Industrial development"
+  },
+  {
+   "source": 5,
+   "target": 29,
+   "value": "Industrial development"
+  },
+  {
+   "source": 5,
+   "target": 43,
+   "value": "Industrial development"
+  },
+  {
+   "source": 5,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 5,
+   "target": 32,
+   "value": "Industrial development"
+  },
+  {
+   "source": 5,
+   "target": 36,
+   "value": "Industrial development"
+  },
+  {
+   "source": 5,
+   "target": 40,
+   "value": "Industrial development"
+  },
+  {
+   "source": 6,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 6,
+   "target": 28,
+   "value": "Industrial development"
+  },
+  {
+   "source": 6,
+   "target": 29,
+   "value": "Industrial development"
+  },
+  {
+   "source": 6,
+   "target": 18,
+   "value": "Industrial development"
+  },
+  {
+   "source": 6,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 6,
+   "target": 7,
+   "value": "Industrial development"
+  },
+  {
+   "source": 6,
+   "target": 36,
+   "value": "Industrial development"
+  },
+  {
+   "source": 6,
+   "target": 24,
+   "value": "Industrial development"
+  },
+  {
+   "source": 6,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 6,
+   "target": 45,
+   "value": "Industrial development"
+  },
+  {
+   "source": 6,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 6,
+   "target": 25,
+   "value": "Industrial development"
+  },
+  {
+   "source": 7,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 7,
+   "target": 29,
+   "value": "Industrial development"
+  },
+  {
+   "source": 7,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 20,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 21,
+   "target": 42,
+   "value": "Industrial development"
+  },
+  {
+   "source": 8,
+   "target": 29,
+   "value": "Industrial development"
+  },
+  {
+   "source": 8,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 8,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 8,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 9,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 9,
+   "target": 28,
+   "value": "Industrial development"
+  },
+  {
+   "source": 9,
+   "target": 38,
+   "value": "Industrial development"
+  },
+  {
+   "source": 9,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 9,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 9,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 22,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 10,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 10,
+   "target": 28,
+   "value": "Industrial development"
+  },
+  {
+   "source": 10,
+   "target": 29,
+   "value": "Industrial development"
+  },
+  {
+   "source": 10,
+   "target": 18,
+   "value": "Industrial development"
+  },
+  {
+   "source": 10,
+   "target": 38,
+   "value": "Industrial development"
+  },
+  {
+   "source": 10,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 10,
+   "target": 42,
+   "value": "Industrial development"
+  },
+  {
+   "source": 10,
+   "target": 36,
+   "value": "Industrial development"
+  },
+  {
+   "source": 10,
+   "target": 40,
+   "value": "Industrial development"
+  },
+  {
+   "source": 10,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 11,
+   "target": 28,
+   "value": "Industrial development"
+  },
+  {
+   "source": 11,
+   "target": 18,
+   "value": "Industrial development"
+  },
+  {
+   "source": 11,
+   "target": 38,
+   "value": "Industrial development"
+  },
+  {
+   "source": 11,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 11,
+   "target": 41,
+   "value": "Industrial development"
+  },
+  {
+   "source": 11,
+   "target": 42,
+   "value": "Industrial development"
+  },
+  {
+   "source": 11,
+   "target": 32,
+   "value": "Industrial development"
+  },
+  {
+   "source": 11,
+   "target": 40,
+   "value": "Industrial development"
+  },
+  {
+   "source": 11,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 11,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 16,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 16,
+   "target": 28,
+   "value": "Industrial development"
+  },
+  {
+   "source": 16,
+   "target": 29,
+   "value": "Industrial development"
+  },
+  {
+   "source": 16,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 16,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 12,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 12,
+   "target": 29,
+   "value": "Industrial development"
+  },
+  {
+   "source": 12,
+   "target": 18,
+   "value": "Industrial development"
+  },
+  {
+   "source": 12,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 12,
+   "target": 32,
+   "value": "Industrial development"
+  },
+  {
+   "source": 12,
+   "target": 40,
+   "value": "Industrial development"
+  },
+  {
+   "source": 12,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 12,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 0,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 27,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 2,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 28,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 29,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 18,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 38,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 30,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 43,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 35,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 15,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 7,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 20,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 41,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 42,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 23,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 32,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 22,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 33,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 36,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 24,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 39,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 10,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 11,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 45,
+   "value": "Industrial development"
+  },
+  {
+   "source": 13,
+   "target": 34,
+   "value": "Industrial development"
+  },
+  {
+   "source": 0,
+   "target": 35,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 0,
+   "target": 34,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 1,
+   "target": 27,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 2,
+   "target": 27,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 2,
+   "target": 29,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 2,
+   "target": 18,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 2,
+   "target": 43,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 2,
+   "target": 35,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 2,
+   "target": 36,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 2,
+   "target": 40,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 2,
+   "target": 39,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 2,
+   "target": 34,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 14,
+   "target": 35,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 3,
+   "target": 27,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 3,
+   "target": 35,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 3,
+   "target": 7,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 3,
+   "target": 20,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 3,
+   "target": 36,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 4,
+   "target": 28,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 4,
+   "target": 43,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 4,
+   "target": 35,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 4,
+   "target": 36,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 6,
+   "target": 27,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 6,
+   "target": 28,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 6,
+   "target": 35,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 6,
+   "target": 34,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 7,
+   "target": 27,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 7,
+   "target": 29,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 7,
+   "target": 34,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 20,
+   "target": 35,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 8,
+   "target": 35,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 23,
+   "target": 34,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 9,
+   "target": 35,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 9,
+   "target": 39,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 10,
+   "target": 28,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 10,
+   "target": 29,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 10,
+   "target": 35,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 10,
+   "target": 36,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 11,
+   "target": 39,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 12,
+   "target": 27,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 12,
+   "target": 29,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 12,
+   "target": 35,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 12,
+   "target": 42,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 12,
+   "target": 32,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 12,
+   "target": 39,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 0,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 27,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 28,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 29,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 18,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 30,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 43,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 35,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 5,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 21,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 9,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 32,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 36,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 24,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 39,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 10,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 11,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 13,
+   "target": 34,
+   "value": "Mineral/Metal prospection and exploration"
+  },
+  {
+   "source": 0,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 0,
+   "target": 34,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 17,
+   "target": 37,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 17,
+   "target": 18,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 17,
+   "target": 43,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 17,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 17,
+   "target": 40,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 29,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 18,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 43,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 42,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 36,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 40,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 46,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 27,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 18,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 43,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 32,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 36,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 40,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 34,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 14,
+   "target": 34,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 19,
+   "target": 38,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 18,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 42,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 40,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 34,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 29,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 18,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 43,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 42,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 40,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 34,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 5,
+   "target": 27,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 5,
+   "target": 29,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 6,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 6,
+   "target": 34,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 7,
+   "target": 34,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 34,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 8,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 9,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 9,
+   "target": 41,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 9,
+   "target": 42,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 9,
+   "target": 39,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 24,
+   "target": 34,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 10,
+   "target": 40,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 38,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 41,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 42,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 39,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 16,
+   "target": 34,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 25,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 12,
+   "target": 27,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 12,
+   "target": 29,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 12,
+   "target": 18,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 12,
+   "target": 38,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 12,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 12,
+   "target": 39,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 27,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 28,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 29,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 18,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 30,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 43,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 35,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 15,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 7,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 20,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 32,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 33,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 36,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 24,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 39,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 10,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 34,
+   "value": "Power generation/non-renewable sources"
+  },
+  {
+   "source": 0,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 0,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 17,
+   "target": 18,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 17,
+   "target": 43,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 17,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 17,
+   "target": 36,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 17,
+   "target": 40,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 17,
+   "target": 39,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 29,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 27,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 28,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 32,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 36,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 39,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 2,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 14,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 14,
+   "target": 39,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 14,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 19,
+   "target": 27,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 19,
+   "target": 38,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 19,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 19,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 27,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 28,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 29,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 18,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 32,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 40,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 39,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 3,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 27,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 28,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 29,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 18,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 43,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 39,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 4,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 15,
+   "target": 27,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 15,
+   "target": 29,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 5,
+   "target": 27,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 5,
+   "target": 29,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 5,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 6,
+   "target": 27,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 6,
+   "target": 28,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 6,
+   "target": 29,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 6,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 6,
+   "target": 7,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 6,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 20,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 26,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 8,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 8,
+   "target": 39,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 9,
+   "target": 27,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 9,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 9,
+   "target": 42,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 9,
+   "target": 32,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 9,
+   "target": 39,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 9,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 24,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 10,
+   "target": 27,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 10,
+   "target": 28,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 10,
+   "target": 29,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 10,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 10,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 29,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 38,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 42,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 32,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 39,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 11,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 16,
+   "target": 29,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 16,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 25,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 12,
+   "target": 27,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 12,
+   "target": 28,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 12,
+   "target": 29,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 12,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 12,
+   "target": 39,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 12,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 27,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 28,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 29,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 18,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 43,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 35,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 7,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 32,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 36,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 39,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 45,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 13,
+   "target": 34,
+   "value": "Power generation/renewable sources"
+  },
+  {
+   "source": 1,
+   "target": 27,
+   "value": "RESCHEDULING AND REFINANCING"
+  },
+  {
+   "source": 1,
+   "target": 32,
+   "value": "RESCHEDULING AND REFINANCING"
+  },
+  {
+   "source": 4,
+   "target": 32,
+   "value": "RESCHEDULING AND REFINANCING"
+  },
+  {
+   "source": 0,
+   "target": 35,
+   "value": "Rail transport"
+  },
+  {
+   "source": 0,
+   "target": 34,
+   "value": "Rail transport"
+  },
+  {
+   "source": 17,
+   "target": 29,
+   "value": "Rail transport"
+  },
+  {
+   "source": 1,
+   "target": 34,
+   "value": "Rail transport"
+  },
+  {
+   "source": 2,
+   "target": 27,
+   "value": "Rail transport"
+  },
+  {
+   "source": 2,
+   "target": 35,
+   "value": "Rail transport"
+  },
+  {
+   "source": 2,
+   "target": 40,
+   "value": "Rail transport"
+  },
+  {
+   "source": 14,
+   "target": 34,
+   "value": "Rail transport"
+  },
+  {
+   "source": 3,
+   "target": 27,
+   "value": "Rail transport"
+  },
+  {
+   "source": 3,
+   "target": 28,
+   "value": "Rail transport"
+  },
+  {
+   "source": 3,
+   "target": 29,
+   "value": "Rail transport"
+  },
+  {
+   "source": 3,
+   "target": 38,
+   "value": "Rail transport"
+  },
+  {
+   "source": 3,
+   "target": 35,
+   "value": "Rail transport"
+  },
+  {
+   "source": 3,
+   "target": 7,
+   "value": "Rail transport"
+  },
+  {
+   "source": 3,
+   "target": 32,
+   "value": "Rail transport"
+  },
+  {
+   "source": 3,
+   "target": 46,
+   "value": "Rail transport"
+  },
+  {
+   "source": 3,
+   "target": 39,
+   "value": "Rail transport"
+  },
+  {
+   "source": 3,
+   "target": 34,
+   "value": "Rail transport"
+  },
+  {
+   "source": 4,
+   "target": 27,
+   "value": "Rail transport"
+  },
+  {
+   "source": 4,
+   "target": 29,
+   "value": "Rail transport"
+  },
+  {
+   "source": 4,
+   "target": 35,
+   "value": "Rail transport"
+  },
+  {
+   "source": 4,
+   "target": 7,
+   "value": "Rail transport"
+  },
+  {
+   "source": 4,
+   "target": 34,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 18,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 32,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 46,
+   "value": "Rail transport"
+  },
+  {
+   "source": 5,
+   "target": 34,
+   "value": "Rail transport"
+  },
+  {
+   "source": 6,
+   "target": 27,
+   "value": "Rail transport"
+  },
+  {
+   "source": 6,
+   "target": 28,
+   "value": "Rail transport"
+  },
+  {
+   "source": 6,
+   "target": 29,
+   "value": "Rail transport"
+  },
+  {
+   "source": 6,
+   "target": 18,
+   "value": "Rail transport"
+  },
+  {
+   "source": 6,
+   "target": 35,
+   "value": "Rail transport"
+  },
+  {
+   "source": 6,
+   "target": 7,
+   "value": "Rail transport"
+  },
+  {
+   "source": 6,
+   "target": 39,
+   "value": "Rail transport"
+  },
+  {
+   "source": 6,
+   "target": 34,
+   "value": "Rail transport"
+  },
+  {
+   "source": 7,
+   "target": 29,
+   "value": "Rail transport"
+  },
+  {
+   "source": 7,
+   "target": 34,
+   "value": "Rail transport"
+  },
+  {
+   "source": 8,
+   "target": 35,
+   "value": "Rail transport"
+  },
+  {
+   "source": 9,
+   "target": 39,
+   "value": "Rail transport"
+  },
+  {
+   "source": 22,
+   "target": 27,
+   "value": "Rail transport"
+  },
+  {
+   "source": 24,
+   "target": 35,
+   "value": "Rail transport"
+  },
+  {
+   "source": 24,
+   "target": 45,
+   "value": "Rail transport"
+  },
+  {
+   "source": 10,
+   "target": 27,
+   "value": "Rail transport"
+  },
+  {
+   "source": 10,
+   "target": 35,
+   "value": "Rail transport"
+  },
+  {
+   "source": 11,
+   "target": 38,
+   "value": "Rail transport"
+  },
+  {
+   "source": 11,
+   "target": 35,
+   "value": "Rail transport"
+  },
+  {
+   "source": 11,
+   "target": 41,
+   "value": "Rail transport"
+  },
+  {
+   "source": 11,
+   "target": 42,
+   "value": "Rail transport"
+  },
+  {
+   "source": 11,
+   "target": 32,
+   "value": "Rail transport"
+  },
+  {
+   "source": 16,
+   "target": 36,
+   "value": "Rail transport"
+  },
+  {
+   "source": 12,
+   "target": 35,
+   "value": "Rail transport"
+  },
+  {
+   "source": 12,
+   "target": 32,
+   "value": "Rail transport"
+  },
+  {
+   "source": 12,
+   "target": 34,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 0,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 27,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 28,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 29,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 18,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 43,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 35,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 7,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 42,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 36,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 24,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 39,
+   "value": "Rail transport"
+  },
+  {
+   "source": 13,
+   "target": 34,
+   "value": "Rail transport"
+  },
+  {
+   "source": 0,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 0,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 0,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 0,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 0,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 38,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 43,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 41,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 42,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 40,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 46,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 17,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 1,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 1,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 1,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 1,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 1,
+   "target": 7,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 1,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 1,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 1,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 1,
+   "target": 45,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 1,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 27,
+   "target": 24,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 2,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 2,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 2,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 2,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 2,
+   "target": 43,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 2,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 2,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 2,
+   "target": 40,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 2,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 2,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 28,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 28,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 29,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 29,
+   "target": 13,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 18,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 18,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 14,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 14,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 14,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 14,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 19,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 19,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 19,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 19,
+   "target": 38,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 19,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 19,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 19,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 37,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 38,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 43,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 7,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 20,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 41,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 42,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 33,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 24,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 40,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 46,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 45,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 3,
+   "target": 25,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 37,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 38,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 43,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 7,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 20,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 41,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 42,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 33,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 24,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 40,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 46,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 45,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 4,
+   "target": 25,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 30,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 30,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 30,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 30,
+   "target": 37,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 30,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 30,
+   "target": 7,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 30,
+   "target": 46,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 30,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 30,
+   "target": 45,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 30,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 15,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 15,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 15,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 15,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 5,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 5,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 5,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 5,
+   "target": 37,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 5,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 5,
+   "target": 43,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 5,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 5,
+   "target": 42,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 5,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 5,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 5,
+   "target": 24,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 5,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 5,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 38,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 43,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 7,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 20,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 41,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 42,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 33,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 24,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 40,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 46,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 6,
+   "target": 25,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 7,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 7,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 7,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 7,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 21,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 21,
+   "target": 38,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 21,
+   "target": 19,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 21,
+   "target": 4,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 21,
+   "target": 43,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 21,
+   "target": 21,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 21,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 21,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 26,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 26,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 26,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 26,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 26,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 26,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 31,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 38,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 43,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 7,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 41,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 42,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 40,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 46,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 8,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 23,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 9,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 9,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 9,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 9,
+   "target": 38,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 9,
+   "target": 43,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 9,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 9,
+   "target": 41,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 9,
+   "target": 42,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 9,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 9,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 9,
+   "target": 40,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 9,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 9,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 32,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 32,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 38,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 43,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 7,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 40,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 46,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 22,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 33,
+   "target": 13,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 37,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 38,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 43,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 7,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 20,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 42,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 40,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 46,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 10,
+   "target": 25,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 38,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 43,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 41,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 42,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 46,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 11,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 16,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 16,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 16,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 16,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 16,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 16,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 16,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 25,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 12,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 12,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 12,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 12,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 12,
+   "target": 38,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 12,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 12,
+   "target": 41,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 12,
+   "target": 32,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 12,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 12,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 12,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 13,
+   "target": 27,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 13,
+   "target": 28,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 13,
+   "target": 29,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 13,
+   "target": 18,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 13,
+   "target": 43,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 13,
+   "target": 35,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 13,
+   "target": 42,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 13,
+   "target": 36,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 13,
+   "target": 24,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 13,
+   "target": 39,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 13,
+   "target": 34,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 13,
+   "target": 25,
+   "value": "Social/ welfare services"
+  },
+  {
+   "source": 0,
+   "target": 35,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 0,
+   "target": 39,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 2,
+   "target": 27,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 2,
+   "target": 28,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 2,
+   "target": 29,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 2,
+   "target": 35,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 2,
+   "target": 39,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 2,
+   "target": 34,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 14,
+   "target": 35,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 19,
+   "target": 43,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 3,
+   "target": 27,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 3,
+   "target": 29,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 3,
+   "target": 37,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 3,
+   "target": 35,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 3,
+   "target": 7,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 3,
+   "target": 32,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 3,
+   "target": 24,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 3,
+   "target": 39,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 3,
+   "target": 34,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 4,
+   "target": 35,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 4,
+   "target": 7,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 5,
+   "target": 27,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 5,
+   "target": 29,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 6,
+   "target": 27,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 6,
+   "target": 28,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 6,
+   "target": 29,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 6,
+   "target": 43,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 6,
+   "target": 35,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 6,
+   "target": 7,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 6,
+   "target": 39,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 6,
+   "target": 34,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 8,
+   "target": 28,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 8,
+   "target": 35,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 8,
+   "target": 39,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 9,
+   "target": 35,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 9,
+   "target": 39,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 22,
+   "target": 27,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 22,
+   "target": 43,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 24,
+   "target": 45,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 10,
+   "target": 27,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 10,
+   "target": 28,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 10,
+   "target": 29,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 11,
+   "target": 39,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 11,
+   "target": 34,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 12,
+   "target": 28,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 12,
+   "target": 29,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 12,
+   "target": 35,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 12,
+   "target": 32,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 12,
+   "target": 39,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 27,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 28,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 29,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 18,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 30,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 43,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 35,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 7,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 42,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 32,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 36,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 24,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 39,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 10,
+   "value": "Telecommunications"
+  },
+  {
+   "source": 13,
+   "target": 34,
+   "value": "Telecommunications"
+  }
+ ],
+ "nodes": [
+  {
+   "group": 1,
+   "name": "Australia"
+  },
+  {
+   "group": 2,
+   "name": "Belgium"
+  },
+  {
+   "group": 3,
+   "name": "Canada"
+  },
+  {
+   "group": 4,
+   "name": "France"
+  },
+  {
+   "group": 5,
+   "name": "Germany"
+  },
+  {
+   "group": 6,
+   "name": "Italy"
+  },
+  {
+   "group": 7,
+   "name": "Japan"
+  },
+  {
+   "group": 8,
+   "name": "Korea"
+  },
+  {
+   "group": 9,
+   "name": "Netherlands"
+  },
+  {
+   "group": 10,
+   "name": "Norway"
+  },
+  {
+   "group": 11,
+   "name": "Spain"
+  },
+  {
+   "group": 12,
+   "name": "Sweden"
+  },
+  {
+   "group": 13,
+   "name": "United Kingdom"
+  },
+  {
+   "group": 14,
+   "name": "United States"
+  },
+  {
+   "group": 15,
+   "name": "Denmark"
+  },
+  {
+   "group": 16,
+   "name": "Ireland"
+  },
+  {
+   "group": 17,
+   "name": "Switzerland"
+  },
+  {
+   "group": 18,
+   "name": "Austria"
+  },
+  {
+   "group": 19,
+   "name": "Czech Republic"
+  },
+  {
+   "group": 20,
+   "name": "Finland"
+  },
+  {
+   "group": 21,
+   "name": "Kuwait"
+  },
+  {
+   "group": 22,
+   "name": "Liechtenstein"
+  },
+  {
+   "group": 23,
+   "name": "Portugal"
+  },
+  {
+   "group": 24,
+   "name": "New Zealand"
+  },
+  {
+   "group": 25,
+   "name": "Saudi Arabia"
+  },
+  {
+   "group": 26,
+   "name": "United Arab Emirates"
+  },
+  {
+   "group": 27,
+   "name": "Luxembourg"
+  },
+  {
+   "group": 28,
+   "name": "Brazil"
+  },
+  {
+   "group": 29,
+   "name": "Chile"
+  },
+  {
+   "group": 30,
+   "name": "Colombia"
+  },
+  {
+   "group": 31,
+   "name": "Greece"
+  },
+  {
+   "group": 32,
+   "name": "Monaco"
+  },
+  {
+   "group": 33,
+   "name": "Poland"
+  },
+  {
+   "group": 34,
+   "name": "Qatar"
+  },
+  {
+   "group": 35,
+   "name": "Thailand"
+  },
+  {
+   "group": 36,
+   "name": "India"
+  },
+  {
+   "group": 37,
+   "name": "Romania"
+  },
+  {
+   "group": 38,
+   "name": "Cyprus"
+  },
+  {
+   "group": 39,
+   "name": "Estonia"
+  },
+  {
+   "group": 40,
+   "name": "South Africa"
+  },
+  {
+   "group": 41,
+   "name": "Slovak Republic"
+  },
+  {
+   "group": 42,
+   "name": "Latvia"
+  },
+  {
+   "group": 43,
+   "name": "Lithuania"
+  },
+  {
+   "group": 44,
+   "name": "Hungary"
+  },
+  {
+   "group": 45,
+   "name": "Iceland"
+  },
+  {
+   "group": 46,
+   "name": "Taiwan"
+  },
+  {
+   "group": 47,
+   "name": "Slovenia"
+  }
+ ]
+}
