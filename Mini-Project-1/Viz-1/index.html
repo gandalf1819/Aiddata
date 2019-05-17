@@ -27,7 +27,7 @@
     var z = d3.scaleOrdinal()
         .range(["#ff5733", "#3498DB"]);
     
-    d3.csv("aiddata-donor-recipient.csv", function(d, i, columns) {
+    d3.csv("aid-donor-recipient.csv", function(d, i, columns) {
     for (var i = 1, n = columns.length; i < n; ++i) d[columns[i]] = +d[columns[i]];
         return d;
     }, function(error, data) {
