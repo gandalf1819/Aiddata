@@ -6,14 +6,16 @@ var urls = {
     // Change URL to csv uploaded on github
     // source: https://gist.github.com/mbostock/7608400
     aids:
-      "https://raw.githubusercontent.com/gandalf1819/Aiddata/master/Mini-Project-1/Viz-2/aiddata.csv",
+      "https://raw.githubusercontent.com/gandalf1819/Aiddata/master/Mini-Project-3/Viz-3/aiddata.csv",
     // aids:
     //   "https://gist.githubusercontent.com/mbostock/7608400/raw/e5974d9bba45bc9ab272d98dd7427567aafd55bc/aids.csv",
   
     // Change URL to csv uploaded on github
     // source: https://gist.github.com/mbostock/7608400
+    // flights:
+    //   "https://gist.githubusercontent.com/mbostock/7608400/raw/e5974d9bba45bc9ab272d98dd7427567aafd55bc/purpose.csv"
     flights:
-      "https://gist.githubusercontent.com/mbostock/7608400/raw/e5974d9bba45bc9ab272d98dd7427567aafd55bc/purpose.csv"
+      "https://raw.githubusercontent.com/gandalf1819/Aiddata/master/Mini-Project-3/Viz-3/purposes-five-count.csv"
   };
   
   var svg  = d3.select("svg");
