@@ -19,9 +19,16 @@ var x1 = d3.scaleBand()
     .padding(0.05);
 var y = d3.scaleLinear()
     .rangeRound([height, 0]);
-var z = d3.scaleOrdinal()
-    .range(["#d7191c", "#fdae61", "#ffffbf", "#abd9e9", "#2c7bb6"]);
-d3.csv("purpose.csv", function(d, i, columns) {
+// Sequential color scale (Multi-hue) - Color Brewer
+var colorScale = d3.scaleOrdinal()
+    .range(["#f0f9e8", "#bae4bc", "#7bccc4", "#43a2ca", "#0868ac"]);
+
+// var colorScale = d3.scaleSequential(d3.interpolateYlGnBu)
+//     .domain([0,width])
+//     //.interpolator(d3.interpolateYlGnBu)
+     
+
+d3.csv("purpose-five.csv", function(d, i, columns) {
   for (var i = 1, n = columns.length; i < n; ++i) d[columns[i]] = +d[columns[i]];
   return d;
 }, function(error, data) {
@@ -42,7 +49,7 @@ d3.csv("purpose.csv", function(d, i, columns) {
       .attr("y", function(d) { return y(d.value); })
       .attr("width", x1.bandwidth())
       .attr("height", function(d) { return height - y(d.value); })
-      .attr("fill", function(d) { return z(d.key); });
+      .attr("fill", function(d) { return colorScale(d.key); });
   g.append("g")
       .attr("class", "axis")
       .attr("transform", "translate(0," + height + ")")
@@ -65,12 +72,13 @@ d3.csv("purpose.csv", function(d, i, columns) {
     .selectAll("g")
     .data(keys.slice().reverse())
     .enter().append("g")
-      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+      //.attr("transform", "translate(10,20)");
+      .attr("transform", function(d, i) { return "translate(-70," + i * 20 + ")"; });
   legend.append("rect")
       .attr("x", width - 19)
       .attr("width", 19)
       .attr("height", 19)
-      .attr("fill", z);
+      .attr("fill", colorScale);
   legend.append("text")
       .attr("x", width - 24)
       .attr("y", 9.5)

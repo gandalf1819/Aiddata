@@ -23,6 +23,34 @@
           border-radius: 8px;     
           pointer-events: none;     
         }
+        .dot-1 {
+          height: 25px;
+          width: 25px;
+          background-color: red;
+          border-radius: 50%;
+          display: inline-block;
+        }
+        .dot-2 {
+          height: 45px;
+          width: 45px;
+          background-color: red;
+          border-radius: 50%;
+          display: inline-block;
+        }
+        .dot-3 {
+          height: 25px;
+          width: 25px;
+          background-color: green;
+          border-radius: 50%;
+          display: inline-block;
+        }
+        .dot-4 {
+          height: 45px;
+          width: 45px;
+          background-color: green;
+          border-radius: 50%;
+          display: inline-block;
+        }
         .legend { list-style: none; }
         .legend li { float: right; margin-right: 10px; }
         .legend span { border: 1px solid #ccc; font-size: 15; float: left; width: 12px; height: 12px; margin: 2px; }
@@ -50,6 +78,20 @@
                 <li><span class="received"></span> Amount Received in Billions</li>
               </ul>
             </div>
+            <div style="text-align:center">
+                <br><br>
+                <pre>
+                <span class="dot-1"></span>
+                0
+                <span class="dot-2"></span>
+                116  
+                <span class="dot-3"></span>
+                0 
+                <span class="dot-4"></span>
+                49
+              </pre> 
+              </div>
+              
           </div>
           
         </div>
@@ -61,6 +103,7 @@
     function loadData() {
     return Promise.all([
         d3.csv("aiddata.csv"),
+        // d3.csv("https://github.com/gandalf1819/Aiddata/blob/master/Mini-Project-1/Viz-2/aiddata.csv"),
         d3.json("countries.geo.json"),
     ]).then(datasets => {
         store.aid = datasets[0];
@@ -160,7 +203,7 @@ function drawCircles(countries) {
      .attr("cx",d=>projection([+d.Longitude,+d.Latitude])[0])
      .attr("cy",d=>projection([+d.Longitude,+d.Latitude])[1])
      .attr("r",function(d) { return Math.min(Math.sqrt(d.donatedBillions),Math.sqrt(d.receivedBillions) *1.6)})
-     .style("fill", function(d){return findColorMin(d)})
-     
+     .style("fill", function(d){return findColorMin(d)})          
+
 }
 </script>
