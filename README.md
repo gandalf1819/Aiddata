@@ -48,3 +48,7 @@ Multiple line chart: http://bl.ocks.org/asielen/44ffca2877d0132572cb
 Grouped bar chart: https://observablehq.com/@d3/grouped-bar-chart
 
 World Map: http://bl.ocks.org/d3noob/5193723
+
+Adjacency Matrix: https://bl.ocks.org/micahstubbs/7f360cc66abfa28b400b96bc75b8984e
+
+Force Directed Layout: https://observablehq.com/@d3/force-directed-graph
