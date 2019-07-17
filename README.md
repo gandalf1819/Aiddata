@@ -1,5 +1,7 @@
 # Aiddata
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 AidData's Core Research Release 3.1 is a corrected snapshot of AidData's entire project-level database from April 2016. This database includes commitment information for over 1.5 million development finance activities funded between 1947 and 2013, covers 96 donors, and includes ODA, OOF flows, Equity Investments, and Export Credits where available. 
 
 https://www.aiddata.org/data/aiddata-core-research-release-level-1-3-1
